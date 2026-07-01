@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Tracker — MERN Stack Application
 
 A modern, full-stack task management dashboard built with MongoDB, Express, React (Vite), and Node.js. Features a clean, SaaS-style UI with full CRUD, search, filtering, sorting, and dark mode.
@@ -236,3 +237,6 @@ Base URL: `/api/tasks`
 - Pagination or infinite scroll for large task lists
 - Recurring tasks and reminders/notifications
 - Unit and integration test coverage (Jest, React Testing Library)
+=======
+# Task-Tracker
+>>>>>>> f757316d5b075855622ad7bdafeec9af41188e59
